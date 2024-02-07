@@ -1,1 +1,1 @@
-ads,jfñadsf
+puts "Hello, #{ARGV.first}!"
